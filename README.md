@@ -3,6 +3,8 @@
 Password generator web application built with React, Typescript and TailWindCSS.
 Minimalistic and mobile-friendly design.
 
+Live version: https://react-password-generator-tawny.vercel.app/
+
 ![Password generator](https://img001.prntscr.com/file/img001/nW3jEE24RSmFY70_lhShhA.png)
 
 Select desired options: type (characters or words), length, capital letters, digits or symbols, and press Generate password.
